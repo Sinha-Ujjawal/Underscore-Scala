@@ -27,3 +27,4 @@ project/plugins/project/
 *.log
 
 # End of https://www.toptal.com/developers/gitignore/api/metals,sbt,scala
+/.bsp
